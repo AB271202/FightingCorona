@@ -1,0 +1,8 @@
+w3schools
+https://www.w3schools.com/tags/att_input_list.asp
+
+https://towardsdatascience.com/how-to-track-coronavirus-with-python-a5320b778c8e
+
+https://realpython.com/python-send-email/
+
+https://docs.djangoproject.com/en/3.0/howto/static-files/
